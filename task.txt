@@ -1,0 +1,5 @@
+Name: a
+Age: 0
+Matric Marks: 1.79082e-038
+Fsc Marks: 9.35112e+032
+Ecat Marks: 5.41838e-039
